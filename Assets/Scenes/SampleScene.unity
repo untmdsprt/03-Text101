@@ -302,8 +302,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -7.4015, y: -143}
-  m_SizeDelta: {x: 1704.1, y: 499.1}
+  m_AnchoredPosition: {x: -8, y: -143}
+  m_SizeDelta: {x: 1705, y: 500}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1145672707
 MonoBehaviour:
@@ -386,6 +386,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textComponent: {fileID: 1145672707}
+  startingState: {fileID: 11400000, guid: ba7af85e9ce994edf89ea8a39dca2d8e, type: 2}
 --- !u!4 &1365489028
 Transform:
   m_ObjectHideFlags: 0
@@ -434,8 +435,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -7.4, y: -143}
-  m_SizeDelta: {x: 1704.1, y: 499.1}
+  m_AnchoredPosition: {x: -8, y: -143}
+  m_SizeDelta: {x: 1705, y: 500}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1494169945
 MonoBehaviour:
