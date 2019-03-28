@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf2bc8ad7b9e94fecba6b6c190ff31da, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "Little Red Riding Hood woke up and was getting ready to see her grandma.
+    Dana had gotten this\nnickname because of the hooded cape she always wore when
+    she'd walk through the woods. Today was\nwarmer than usual and she was debating
+    whether or not to wear the cape. She was also deciding if she\nshould touch up
+    the color of her hair.\n\nShould Dana...? \n1. Color her hair with \"Rockin' it
+    Redhead #9\" \n2. Wear the cape as it might rain.\n\n"
