@@ -18,3 +18,6 @@ MonoBehaviour:
     whether or not to wear the cape. She was also deciding if she should touch up
     the color of her hair.\n\nShould Dana...? \n1. Color her hair with \"Rockin' it
     Redhead #9\" \n2. Wear the cape as it might rain.\n\n"
+  nextStates:
+  - {fileID: 11400000, guid: 9f124536737934b218277e5cd1e6ad82, type: 2}
+  - {fileID: 11400000, guid: aff5e22bf1e544c15b083ed419e99ee9, type: 2}
